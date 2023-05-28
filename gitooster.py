@@ -14,7 +14,7 @@ while True:
     if waittime < 20:
         print("Please keep the waittime above 20 seconds! ")
         waittime=20
-    random_number = random.randint(0, len(listofmessages))
+    random_number = random.randint(0, len(listofmessages)-1)
     time.sleep(waittime)
     command = fr'cd /d "{directory}" && git add . && git commit -m "{listofmessages[random_number]}"'
     subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True, creationflags=subprocess.DETACHED_PROCESS)
