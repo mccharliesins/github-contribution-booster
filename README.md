@@ -1,5 +1,7 @@
 # Gitooster - Contribution Booster
 
+Gitooster will boost and increase your contributions! It can increase somewhere about more than 1000 contributions daily!
+
 GitHub Booster is a powerful Python script designed to dramatically enhance contributions and commits on GitHub. With the ability to nearly 100x the productivity of developers, this script provides an efficient and streamlined approach to increasing GitHub activity. By automating repetitive tasks and optimizing the development workflow, GitHub Booster empowers developers to focus more on writing quality code and collaborating effectively.
 
 ## Getting Started
