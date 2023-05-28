@@ -40,6 +40,6 @@ Also: Use git push at the end of your coding session to push changes and commits
 Contributor names and contact info:
 
 McCharlie Sins  
-[Github: @McCharlieSins](https://github.com/mccharliesins)
-[Linkedin: @McCharlieSins](https://linkedin.com/in/mccharliesins)
-[Instagram: @itsMcCharlieSins](https://instagram.com/itsmccharliesins)
+* [Github: @McCharlieSins](https://github.com/mccharliesins)
+* [Linkedin: @McCharlieSins](https://linkedin.com/in/mccharliesins)
+* [Instagram: @itsMcCharlieSins](https://instagram.com/itsmccharliesins)
